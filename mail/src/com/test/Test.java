@@ -22,6 +22,7 @@ public class Test {
 		
 		Map<String, String> contentMap = new HashMap<>();
 		contentMap.put(USERNAME, userNameValue);
+        contentMap.put(URLLINK, urlLinkValue);
 
 		Mail.sendMailByTemplate(sendTo, mailName, contentMap, templateFileName);
 
