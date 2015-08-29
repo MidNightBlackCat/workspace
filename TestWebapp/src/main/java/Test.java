@@ -8,6 +8,7 @@ public class Test extends HttpServlet {
     public void doGet(HttpServletRequest request, HttpServletResponse response) throws IOException {
 
 //        response.sendRedirect("test");
+        //Just test
         response.addHeader("Location", "http://www.baidu.com");
         response.setStatus(HttpServletResponse.SC_FOUND);
 
