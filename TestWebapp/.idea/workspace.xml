@@ -262,7 +262,7 @@
     <property name="recentsLimit" value="5" />
     <property name="dynamic.classpath" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mail" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -677,8 +677,8 @@
       </method>
     </configuration>
     <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.All in TestWebapp" />
-      <item index="1" class="java.lang.String" itemvalue="Tomcat Server.Test" />
+      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Test" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.All in TestWebapp" />
     </list>
     <recent_temporary>
       <list size="1">
@@ -698,16 +698,16 @@
       <updated>1440765381039</updated>
       <workItem from="1440765387874" duration="996000" />
       <workItem from="1440766409640" duration="3262000" />
-      <workItem from="1440865114469" duration="989000" />
+      <workItem from="1440865114469" duration="1430000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5247000" />
+    <option name="totallyTimeSpent" value="5688000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="820" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
