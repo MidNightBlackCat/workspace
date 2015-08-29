@@ -1,0 +1,21 @@
+package com.test;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class Test {
+
+	private static String sendTo = "583424001@qq.com";
+
+	private static String mailName = "Welcome to resister Telkomsel Mobile Connect.";
+
+	private static String templateFileName = "mailTemplate.ftl";
+
+	public static void main(String[] args) {
+		Map<String, String> contentMap = new HashMap<String, String>();
+		contentMap.put("content", "发送邮件测试欢迎你,<font color=red>欢迎你,java</font>");
+
+		Mail.sendMailByTemplate(sendTo, mailName, contentMap, templateFileName);
+	}
+
+}

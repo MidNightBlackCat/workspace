@@ -1,0 +1,27 @@
+package com.test;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class Test {
+
+	private static final String sendTo = "583424001@qq.com";
+
+	private static final String mailName = "Welcome to resister Telkomsel Mobile Connect.";
+
+	private static final String templateFileName = "mailTemplate.ftl";
+
+	private static final String userName = "夜夜夜猫";
+	
+	private static final String urlLinkValue = "http://www.baidu.com";
+
+	public static void main(String[] args) {
+
+		Map<String, String> contentMap = new HashMap<String, String>();
+		contentMap.put("userName", userName);
+		contentMap.put("urlLink", "");
+
+		Mail.sendMailByTemplate(sendTo, mailName, contentMap, templateFileName);
+	}
+
+}

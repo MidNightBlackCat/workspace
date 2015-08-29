@@ -1,0 +1,17 @@
+package com.test;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class Test {
+
+
+	public static void main(String[] args) {
+		Map<String, String> contentMap = new HashMap<String, String>();
+		contentMap.put("content", "发送邮件测试欢迎你,<font color=red>欢迎你,java</font>");
+
+		MailUtil.sendMailByTemplate("583424001@qq.com",
+				"This is a hello word mail.", contentMap, "mailTemplate.ftl");
+	}
+	
+}
