@@ -22,11 +22,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="mail" />
+        <module name="time" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="mail" target="1.5" />
+      <module name="time" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
