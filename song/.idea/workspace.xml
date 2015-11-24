@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c718cba4-a3b5-424c-9a17-38d41494d9f4" name="Default" comment="">
+    <list default="true" id="c718cba4-a3b5-424c-9a17-38d41494d9f4" name="Default" comment="lmd added">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/song/song.java" afterPath="$PROJECT_DIR$/src/main/java/song/song.java" />
     </list>
     <ignored path="song.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,12 +40,9 @@
       <file leaf-file-name="Song.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/song/Song.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.37102473">
-              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding>
-                <element signature="e#179#180#0" expanded="true" />
-                <element signature="e#233#234#0" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.3180212">
+              <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -664,12 +662,12 @@
       <created>1448386999098</created>
       <option name="number" value="Default" />
       <updated>1448386999098</updated>
-      <workItem from="1448387000499" duration="889000" />
+      <workItem from="1448387000499" duration="1039000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="889000" />
+    <option name="totallyTimeSpent" value="1039000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1004" extended-state="6" />
@@ -731,12 +729,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/song/Song.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37102473">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="e#179#180#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.3180212">
+          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+          <folding />
         </state>
       </provider>
     </entry>
